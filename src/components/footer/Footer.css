@@ -1,0 +1,77 @@
+.first_wrapper{
+    width: 1519px;
+    height: 200px;
+    background-color: #F67E7E;
+    position: relative;
+}
+.first_wrapper img{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.button__wrapper h1{
+    font-family: sans-serif;
+    color: #fff;
+    display: inline;
+    position: absolute;
+    height: 48px;
+    font-size: 48px;
+    left: 20%;
+    top: calc(50% - 48px/2)
+}
+.button__wrapper button{
+    width:153px;
+    height: 48px;
+    border-radius: 24px;
+    background-color: #F67E7E;
+    color:  #012F34;
+    border: 2px solid #012F34;
+    font-size: 18px;
+    line-height: 28px;
+    position: absolute;
+    top: 76px;
+    right: 260px;
+}
+.second__wrapper{
+    font-family: sans-serif;
+    width: 1519px;
+    height: 196px;
+    background: #002529;
+    position: relative;
+    color: #fff;
+}
+.second__wrapper h1{
+    position: absolute;
+    top: 48px;
+    left: 165px;
+}
+.second__wrapper h3{
+    top: 113px; ;
+    left: 165px;
+    position: absolute;
+    font-size: 18px;
+}
+.second__wrapper h4{
+    position: absolute;
+    top: 113px;
+    left: 254px;
+    font-size: 18px;
+
+}
+.call{
+    position: absolute;
+    top: 48px;
+    left: 540px;
+}
+.second__wrapper span{
+    position: absolute;
+    top: 50px;
+    right: 200px
+}
+.second__wrapper span i{
+    font-size: 24px;
+    margin-left: 13px;
+}
+.call p{
+    color: #99A8A9;
+}

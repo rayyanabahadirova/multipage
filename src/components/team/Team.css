@@ -1,0 +1,41 @@
+.team__wrapper{
+    font-family: sans-serif;
+    position: relative;
+    width: 1519px;
+    height: 795px;
+    background-color:#004047;
+    
+}
+.team__wrapper .hi{
+    display: inline;
+    width: 920px;
+    height: 96px;
+    position: absolute;
+    top: 140px;
+    left: 460px;
+    font-size: 43px;
+    color: #fff;
+}
+.team__wrapper .hi2{
+    display: inline;
+    width: 920px;
+    height: 96px;
+    position: absolute;
+    top: 190px;
+    left: 350px;
+    font-size: 43px;
+    color: #fff;
+}
+.humans{
+    position: absolute;
+    top: 292px;
+    left: 195px;
+}
+.toungle{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.team__wrapper span{
+    color: #79C8C7;
+}
